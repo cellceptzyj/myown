@@ -1,0 +1,6 @@
+# Sub-Store
+DOMAIN , sub.store, Proxy
+DOMAIN , sub-store.vercel.app, Proxy
+
+# BOXJS
+DOMAIN , http://boxjs.com, Proxy
