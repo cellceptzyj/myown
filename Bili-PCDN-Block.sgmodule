@@ -1,3 +1,7 @@
+#!name=Bilibili PCDN Block
+#!author=Jesse
+#!update=20261108
+
 [Rule]
 # === 基础 PCDN 与指定拦截域名 ===
 DOMAIN-KEYWORD, pcdn.biliapi, REJECT
