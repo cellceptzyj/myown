@@ -1,0 +1,12 @@
+[Rule]
+# === Sub-Store ===
+DOMAIN-SUFFIX, sub.store, Proxy
+DOMAIN-SUFFIX, sub-store.vercel.app, Proxy
+
+# === BOXJS ===
+DOMAIN-SUFFIX, boxjs.com, Proxy
+DOMAIN-SUFFIX, boxjs.net, Proxy
+
+# === Script Hub ===
+DOMAIN-SUFFIX, script.hub, Proxy
+DOMAIN-SUFFIX, scriptub.vercel.app, Proxy
