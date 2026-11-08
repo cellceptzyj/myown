@@ -1,6 +1,7 @@
 #!name=Bilibili PCDN Block
+#!desc=Bilibili屏蔽PCDN
 #!author=Jesse
-#!update=20261108
+#!update=20261109
 
 [Rule]
 # === 基础 PCDN 与指定拦截域名 ===
